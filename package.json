@@ -1,5 +1,5 @@
 {
-  "name": "unique-names-generator",
+  "name": "@letznav/unique-names-generator",
   "version": "1.0.14",
   "description": "Generate unique and memorable names",
   "engines": {
@@ -26,25 +26,25 @@
     "lib/unique-names-generator.js",
     "lib/dictionaries"
   ],
-  "author": "AndreaSonny <andreasonny83@gmail.com>",
+  "author": "info@letznav.com",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:andreasonny83/unique-names-generator.git"
+    "url": "https://github.com/saiumesh-letznav/unique-names-generator"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-eslint": "^10.0.1",
-    "babel-preset-env": "^1.7.0",
-    "eslint": "^5.7.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-config-babel": "^8.0.1",
-    "eslint-plugin-flowtype": "^2.50.3",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^21.24.1",
-    "jest": "^23.6.0",
-    "np": "^3.0.4",
-    "prettier": "^1.14.3"
+    "babel-cli": "6.26.0",
+    "babel-eslint": "10.0.1",
+    "babel-preset-env": "1.7.0",
+    "eslint": "5.7.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-config-babel": "8.0.1",
+    "eslint-plugin-flowtype": "2.50.3",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-jest": "21.24.1",
+    "jest": "23.6.0",
+    "np": "3.0.4",
+    "prettier": "1.14.3"
   }
 }

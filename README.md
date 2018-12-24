@@ -13,7 +13,7 @@ $ npm i -S unique-names-generator
 ```
 
 ```js
-const uniqueNamesGenerator = require('unique-names-generator');
+const uniqueNamesGenerator = require('@letznav/unique-names-generator');
 
 const randomName = uniqueNamesGenerator.generate(); // big_red_donkey
 
