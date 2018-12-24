@@ -9,7 +9,7 @@
 [![NPM](https://nodei.co/npm/unique-names-generator.png)](https://npmjs.org/package/unique-names-generator)
 
 ```sh
-$ npm i -S unique-names-generator
+$ npm i @letznav/unique-names-generator
 ```
 
 ```js
